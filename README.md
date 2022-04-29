@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi everyone, I'm Miguel Barrera. 👋 🤙 🖖 
-<img width="220px" align="right" style="border-radius:50px !important" border-radius="50px" alt="developer" src = "./images/selfie-1.jpeg"/>
+<img width="220px" align="right" border-radius="50px" alt="developer" src="./images/selfie-1.jpeg"/>
 
 - 💻 &nbsp; Javascript full-stack Developer. 😵‍💫
 - 🌎 &nbsp; Based in Mexico. 🇲🇽
@@ -23,14 +23,14 @@ Here are some ideas to get you started:
 - 🧑🏽‍💻 &nbsp; Currently looking for remote, full-time opportunities. 
 - 🚀 &nbsp; Working on my personal web projects.
 - 👾 &nbsp; VideoGames and books.
+- 🚀 &nbsp; 💻 &nbsp; 🧑🏽‍💻 &nbsp; 🌮 &nbsp; 🍕 &nbsp; 😬 &nbsp; 😵‍💫 &nbsp;
 
-💻 &nbsp; 🧑🏽‍💻 &nbsp; 🌮 &nbsp; 🍕 &nbsp; 😬 &nbsp; 😵‍💫 &nbsp;
 <br>
 <br>
 
 ## Get in touch.
 
-[![Github](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mabvmex) &nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mabvmex) &nbsp;  [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mabvmex) &nbsp; [![Instagram](https://img.shields.io/badge/-Instagram-c4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mabvmex) &nbsp; [![Gmail](https://img.shields.io/badge/-Gmail-c14436?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabvmex@gmail.com) &nbsp; [![web](https://img.shields.io/badge/-Web-7f29ce?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://mabvmex-blog.netlify.app/)
+[![Github](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mabvmex) &nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mabvmex) &nbsp;  [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mabvmex) &nbsp; [![Instagram](https://img.shields.io/badge/-Instagram-c4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mabvmex) &nbsp; [![Gmail](https://img.shields.io/badge/-Gmail-c14436?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabvmex@gmail.com) &nbsp; [![web](https://img.shields.io/badge/-Web-7f29ce?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://mabvmex.github.io/mabvmex-gitblog/)
 
 ## Technologies and tools.
 
