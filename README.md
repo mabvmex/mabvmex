@@ -29,10 +29,11 @@ Here are some ideas to get you started:
 <br>
 
 ## Get in touch.
+
 [![Github](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mabvmex) &nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mabvmex) &nbsp;  [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mabvmex) &nbsp; [![Instagram](https://img.shields.io/badge/-Instagram-c4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mabvmex) &nbsp; [![Gmail](https://img.shields.io/badge/-Gmail-c14436?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabvmex@gmail.com) &nbsp; [![web](https://img.shields.io/badge/-Web-7f29ce?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://mabvmex.com) <!-- logo=microstrategy-->
 
-
 ## Technologies and tools.
+
 <p> 
 <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="javascript"/> &nbsp;
 <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/> &nbsp;
@@ -68,9 +69,24 @@ Here are some ideas to get you started:
 </p>
 <hr>
 
+<table align="center">
+ <tr>
+  <td align="center">
+  
+  ![mabvmex's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabvmex&show_icons=true&theme=midnight-purple)
+
+  </td>
+  <td>
+  
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabvmex&layout=compact&theme=midnight-purple)](https://github.com/mabvmex/github-readme-stats)
+   
+  </td>
+ </tr>   
+</table>
 
 
-<!-- COMMENTS TO CONSIDER
+
+<!-- COMMENTS
 
 <img width="50%" align="right" alt="developer" src = "https://www.simplilearn.com/ice9/free_resources_article_thumb/full_front_back.jpg"/>
 <img width="50%" align="right" alt="developer" src = "./images/tux.jpeg"/>
@@ -80,4 +96,15 @@ Sources:
 - Vector Logos: https://www.vectorlogo.zone/logos
 - Badges Generator: https://shields.io/
 - GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats
+
+  ![mabvmex's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabvmex&show_icons=true&theme=midnight-purple)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabvmex&layout=compact&theme=midnight-purple)](https://github.com/mabvmex/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabvmex&langs_count=8&theme=midnight-purple)](https://github.com/mabvmex/github-readme-stats)
+
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mabvmex&repo=mabvmex&theme=midnight-purple)](https://github.com/mabvmex/mabvmex)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=midnight-purple)](https://github.com/anuraghazra/anuraghazra-readme-stats)
+ 
  -->
