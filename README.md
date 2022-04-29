@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## Get in touch.
 
-[![Github](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mabvmex) &nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mabvmex) &nbsp;  [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mabvmex) &nbsp; [![Instagram](https://img.shields.io/badge/-Instagram-c4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mabvmex) &nbsp; [![Gmail](https://img.shields.io/badge/-Gmail-c14436?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabvmex@gmail.com) &nbsp; [![web](https://img.shields.io/badge/-Web-7f29ce?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://mabvmex.com) <!-- logo=microstrategy-->
+[![Github](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mabvmex) &nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mabvmex) &nbsp;  [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mabvmex) &nbsp; [![Instagram](https://img.shields.io/badge/-Instagram-c4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mabvmex) &nbsp; [![Gmail](https://img.shields.io/badge/-Gmail-c14436?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabvmex@gmail.com) &nbsp; [![web](https://img.shields.io/badge/-Web-7f29ce?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://mabvmex-blog.netlify.app/)
 
 ## Technologies and tools.
 
@@ -96,6 +96,7 @@ Sources:
 - Vector Logos: https://www.vectorlogo.zone/logos
 - Badges Generator: https://shields.io/
 - GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats
+- logo=microstrategy -
 
   ![mabvmex's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabvmex&show_icons=true&theme=midnight-purple)
 
