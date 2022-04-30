@@ -96,6 +96,7 @@ Sources:
 - Vector Logos: https://www.vectorlogo.zone/logos
 - Badges Generator: https://shields.io/
 - GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats
+- https://readme-typing-svg.herokuapp.com/demo/
 - logo=microstrategy -
 
   ![mabvmex's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabvmex&show_icons=true&theme=midnight-purple)
