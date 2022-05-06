@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img width="220px" align="right" border-radius="50px" alt="developer" src="./images/selfie-1.jpeg"/>
 
 - 💻 &nbsp; Javascript full-stack Developer. 😵‍💫
-- 📱 &nbsp; Interested en Android/iOS Development.  <img width="18px" src="https://developer.android.com/images/logos/android.svg" alt="android"/> 😵‍💫 
+- 📱 &nbsp; Interested in Android/iOS Development.  <img width="18px" src="https://developer.android.com/images/logos/android.svg" alt="android"/> 😵‍💫 
 - 🌎 &nbsp; Based in Mexico. 🇲🇽
 - 📚 &nbsp; Permanently learning. 
 - 🧑🏽‍💻 &nbsp; Currently looking for remote, full-time opportunities. 
