@@ -18,10 +18,13 @@ Here are some ideas to get you started:
 <img width="220px" align="right" border-radius="50px" alt="developer" src="./images/selfie-1.jpeg"/>
 
 - 💻 &nbsp; Javascript full-stack Developer. 😵‍💫
+- 📱 &nbsp; Interested en Android/iOS Development.  <img width="18px" src="https://developer.android.com/images/logos/android.svg" alt="android"/> 😵‍💫 
 - 🌎 &nbsp; Based in Mexico. 🇲🇽
 - 📚 &nbsp; Permanently learning. 
 - 🧑🏽‍💻 &nbsp; Currently looking for remote, full-time opportunities. 
 - 🚀 &nbsp; Working on my personal web projects.
+- 🤘🏽 &nbsp; OpenSource enthusiast!
+- 🎯 &nbsp; Looking for collaborate on **open source projects** ♥️
 - 👾 &nbsp; VideoGames and books.
 - 🚀 &nbsp; 💻 &nbsp; 🧑🏽‍💻 &nbsp; 🌮 &nbsp; 🍕 &nbsp; 😬 &nbsp; 😵‍💫 &nbsp;
 
@@ -35,34 +38,34 @@ Here are some ideas to get you started:
 ## Technologies and tools.
 
 <p> 
-<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="javascript"/> &nbsp;
-<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/> &nbsp;
-<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"/> &nbsp;
-<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap"/> &nbsp;
-<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"/> &nbsp;
-<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss"/> &nbsp;
-<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery"/> &nbsp;
-<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs"/> &nbsp;
-<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"/> &nbsp;
-<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs"/> &nbsp;
-<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react"/> &nbsp;
-<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs"/> &nbsp;
-<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="ionic"/> &nbsp;
-<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" alt="gatsby"/> &nbsp;
-<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hugo/hugo-original.svg" alt="hugo"/> &nbsp;
-<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress"/> &nbsp;
-<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/> &nbsp;
-<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"/> &nbsp;
-<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express"/> &nbsp;
-<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/> &nbsp;
-<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode"/> &nbsp;
-<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple"/> &nbsp;
+<img width="45px" src="https://raw.githubusercontent.com/mabvmex/devicon/master/icons/html5/html5-original.svg" alt="javascript"/> &nbsp;
+<img width="45px" src="https://raw.githubusercontent.com/mabvmex/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/> &nbsp;
+<img width="45px" src="https://raw.githubusercontent.com/mabvmex/devicon/master/icons/css3/css3-original.svg" alt="css3"/> &nbsp;
+<img width="45px" src="https://raw.githubusercontent.com/mabvmex/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap"/> &nbsp;
+<img width="45px" src="https://raw.githubusercontent.com/mabvmex/devicon/master/icons/sass/sass-original.svg" alt="sass"/> &nbsp;
+<img width="45px" src="https://raw.githubusercontent.com/mabvmex/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss"/> &nbsp;
+<img width="45px" src="https://raw.githubusercontent.com/mabvmex/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery"/> &nbsp;
+<img width="45px" src="https://raw.githubusercontent.com/mabvmex/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs"/> &nbsp;
+<img width="45px" src="https://raw.githubusercontent.com/mabvmex/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"/> &nbsp;
+<img width="45px" src="https://raw.githubusercontent.com/mabvmex/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs"/> &nbsp;
+<img width="45px" src="https://raw.githubusercontent.com/mabvmex/devicon/master/icons/react/react-original.svg" alt="react"/> &nbsp;
+<img width="45px" src="https://raw.githubusercontent.com/mabvmex/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs"/> &nbsp;
+<img width="45px" src="https://raw.githubusercontent.com/mabvmex/devicon/master/icons/ionic/ionic-original.svg" alt="ionic"/> &nbsp;
+<img width="45px" src="https://raw.githubusercontent.com/mabvmex/devicon/master/icons/gatsby/gatsby-original.svg" alt="gatsby"/> &nbsp;
+<img width="45px" src="https://raw.githubusercontent.com/mabvmex/devicon/master/icons/hugo/hugo-original.svg" alt="hugo"/> &nbsp;
+<img width="45px" src="https://raw.githubusercontent.com/mabvmex/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress"/> &nbsp;
+<img width="45px" src="https://raw.githubusercontent.com/mabvmex/devicon/master/icons/mongodb/mongodb-original.svg"/> &nbsp;
+<img width="45px" src="https://raw.githubusercontent.com/mabvmex/devicon/master/icons/git/git-original.svg" alt="git"/> &nbsp;
+<img width="45px" src="https://raw.githubusercontent.com/mabvmex/devicon/master/icons/express/express-original.svg" alt="express"/> &nbsp;
+<img width="45px" src="https://raw.githubusercontent.com/mabvmex/devicon/master/icons/python/python-original.svg" alt="python"/> &nbsp;
+<img width="45px" src="https://raw.githubusercontent.com/mabvmex/devicon/master/icons/vscode/vscode-original.svg" alt="vscode"/> &nbsp;
+<img width="45px" src="https://raw.githubusercontent.com/mabvmex/devicon/master/icons/apple/apple-original.svg" alt="apple"/> &nbsp;
 <img width="45px" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="windows"/> &nbsp;
 <img width="45px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux"/> &nbsp;
 <img width="45px" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="archlinux"/> &nbsp;
-<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian"/> &nbsp;
-<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku"/> &nbsp;
-<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql"/> &nbsp;
+<img width="45px" src="https://raw.githubusercontent.com/mabvmex/devicon/master/icons/debian/debian-original.svg" alt="debian"/> &nbsp;
+<img width="45px" src="https://raw.githubusercontent.com/mabvmex/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku"/> &nbsp;
+<img width="45px" src="https://raw.githubusercontent.com/mabvmex/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql"/> &nbsp;
 <img width="45px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"/> &nbsp;
 <img width="45px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"/> &nbsp;
 
@@ -84,7 +87,18 @@ Here are some ideas to get you started:
  </tr>   
 </table>
 
-
+   
+   
+<div align="center">
+  <p align="center" href="https://github.com/mabvmex">
+    <img src="https://komarev.com/ghpvc/?username=mabvmex&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=hurriyetemlak&color=brightgreen"
+      alt="mabvmex" />
+    <img src="https://img.shields.io/github/followers/mabvmex.svg?style=for-the-badge&logo=github&label=Follow&maxAge=2592000&color=hotpink"
+      alt="mabvmex" />
+    <img src="https://img.shields.io/twitter/follow/mabvmex?color=gold&label=Follow&logo=twitter&style=for-the-badge"
+      alt="mabvmex" />
+  </p>
+</div>
 
 <!-- COMMENTS
 
