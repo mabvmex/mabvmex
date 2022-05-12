@@ -67,6 +67,7 @@ Here are some ideas to get you started:
 <img width="45px" src="https://raw.githubusercontent.com/mabvmex/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku"/> &nbsp;
 <img width="45px" src="https://raw.githubusercontent.com/mabvmex/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql"/> &nbsp;
 <img width="45px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"/> &nbsp;
+<img width="45px" src="https://raw.githubusercontent.com/mabvmex/devicon/master/icons/azure/azure-original.svg" alt="Azure"/> &nbsp;
 <img width="45px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"/> &nbsp;
 
 </p>
