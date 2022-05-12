@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🧑🏽‍💻 &nbsp; Currently looking for remote, full-time opportunities. 
 - 🚀 &nbsp; Working on my personal web projects.
 - 🤘🏽 &nbsp; OpenSource enthusiast!
-- 🎯 &nbsp; Looking for collaborate on **open source projects** ♥️
+- 🎯 &nbsp; Looking to collaborate on **open source projects** ♥️
 - 👾 &nbsp; VideoGames and books.
 - 🚀 &nbsp; 💻 &nbsp; 🧑🏽‍💻 &nbsp; 🌮 &nbsp; 🍕 &nbsp; 😬 &nbsp; 😵‍💫 &nbsp;
 
