@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 <img width="220px" align="right" border-radius="50px" alt="developer" src="./images/selfie-1.jpeg"/>
 
 - 💻 &nbsp; Javascript full-stack Developer. 😵‍💫
-- 📱 &nbsp; Interested in Android/iOS Development.  <img width="18px" src="https://developer.android.com/images/logos/android.svg" alt="android"/> <img width="18px" src="https://raw.githubusercontent.com/mabvmex/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter"/>  😵‍💫 
-- 
+- 📱 &nbsp; Interested in Android/iOS Development.  <img width="18px" src="https://developer.android.com/images/logos/android.svg" alt="android"/> <img width="12px" src="https://raw.githubusercontent.com/mabvmex/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter"/>  😵‍💫 
 - 🌎 &nbsp; Based in Mexico. 🇲🇽
 - 📚 &nbsp; Permanently learning. 
 - 🧑🏽‍💻 &nbsp; Currently looking for remote, full-time opportunities. 
