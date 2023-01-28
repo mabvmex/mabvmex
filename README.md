@@ -20,6 +20,7 @@ Images:
   <img width="50%" align="right" alt="developer" src = "./images/tux.jpeg"/>
 
 Sources:
+  - https://skillicons.dev/
   - DevIcons: https://github.com/devicons/devicon/tree/master/icons / https://devicon.dev/
   - Vector Logos: https://www.vectorlogo.zone/logos
   - Badges Generator: https://shields.io/
